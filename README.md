@@ -14,3 +14,12 @@ The i3 Colour changer applet was created after frustration with editing i3 confi
 This program is written in Python 3 by using the [wxPython Phoenix](http://wiki.wxpython.org/How%20to%20install%20wxPython#Installing_wxPython-Phoenix_using_pip) project for GUI. Other packages which must be installed includes:
 * [colour](https://pypi.python.org/pypi/colour/)
 * [i3ipc](https://github.com/acrisci/i3ipc-python) 
+
+
+__________________________
+Arch:
+
+1. install from arch-AUR: python-wxpython
+2. pip install colour
+3. pip install i3ipc
+4. python main.py
